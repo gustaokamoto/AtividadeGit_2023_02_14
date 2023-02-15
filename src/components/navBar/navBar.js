@@ -12,13 +12,13 @@ function NavBar() {
     </div>
     <div id='links-div'>
         <button className='link-button'>
-          <Link to="/" className='nav-link'>Pagina Principal</Link>
+          <Link to="/" className='nav-link'>Página Principal</Link>
         </button>
         <button className='link-button'>
           <Link to="/demografia" className='nav-link'>Demografia</Link>
         </button>
         <button className='link-button'>
-          <Link to="/" className='nav-link'>Comércio Local</Link>
+          <Link to="/" className='nav-link'>Comércio</Link>
         </button>
         <button className='link-button'>
           <Link to="/" className='nav-link'>Curiosidades</Link>
